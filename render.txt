@@ -1,0 +1,1 @@
+ gunicorn ‘Your_app_name’:app
